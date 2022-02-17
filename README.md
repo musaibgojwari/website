@@ -2,7 +2,5 @@
 
 This is a really awesome website
 
-Edit on README file
+Update Locally
 
-
-This is a update in README file
