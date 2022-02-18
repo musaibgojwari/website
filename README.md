@@ -2,10 +2,6 @@
 
 This is a really awesome website
 
-Update Locally
+# Remote
 
-update before the rebase. Lets see
-
-# Locally
-
-Malice in the file
+Updated Text is here for github.
